@@ -1,6 +1,8 @@
-72b9e8ee0defcf1a0978a42b559e75eb *DESCRIPTION
-d109e3a55dcf3442ae96546e8651a38f *NAMESPACE
-0a66704873c127f0ca7c38ea5bff87fc *NEWS.md
-c9810677ccf5252dcf3a6ec0280b3024 *R/runQcChecks.R
-ab227ed47866c2e662117c0987587d3f *inst/test_files/vms_test.csv
-0fa664dfb4e451d28929f47ec48413fd *man/runQCChecks.Rd
+2f3569d72321427dc79edc1ad7c2c7aa *DESCRIPTION
+9ab23492fd6e7360b2480ba84071ddc1 *NAMESPACE
+b9265abed2d266181ab3c8f96ed6b7ad *NEWS.md
+2bc74e4a3901c1a8469189a1de44df01 *R/runQcChecks.R
+8f3884d5ba8fbc493fa8775c32732a10 *R/runVocabChecks.R
+99a0cf0ae9d02cd65b9824c6ebd050e6 *inst/test_files/vms_test.csv
+6cc8de8339dda9ca5c749120d2d9c370 *man/runQCChecks.Rd
+2ff8be539cbb577a7895647cc542690b *man/runVocabChecks.Rd
